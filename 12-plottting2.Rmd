@@ -43,7 +43,7 @@ yarrr::piratepal("evildead",
 Once you find a color palette you like, you can save the colors as a vector and assigning the result to an object. For example, if I want to use the `"google"` palette and use them in a barplot, I would do the following:
 
 ```{r}
-# Save the South Park palette to a vector
+# Save the google palette to a vector
 google.cols <- piratepal(palette = "google", 
                          trans = .2)
 
